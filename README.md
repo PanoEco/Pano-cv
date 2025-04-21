@@ -1,4 +1,4 @@
-# Panayioti Ikonomo – Curriculum Vitae
+# Panayioti Economou – Curriculum Vitae
 
 Welcome to my GitHub-hosted CV.
 
