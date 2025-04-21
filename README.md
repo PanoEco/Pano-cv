@@ -1,4 +1,4 @@
-# Panayioti Ikonomo – Curriculum Vitae
+# Panayioti Economou – Curriculum Vitae
 
 Welcome to my GitHub-hosted CV.
 
@@ -19,5 +19,5 @@ I’m a BSc IT Software Engineering student at Eduvos with internship experience
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/panoikonomo](https://linkedin.com/in/panoikonomo)
+- LinkedIn: [linkedin.com/in/panoEconomo](https://linkedin.com/in/panoikonomo)
 - GitHub: [github.com/PanoEco](https://github.com/PanoEco)
